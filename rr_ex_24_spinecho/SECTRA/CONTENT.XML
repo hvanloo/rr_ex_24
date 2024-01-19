@@ -1,0 +1,788 @@
+<?xml version="1.0"?>
+<content>
+  <session>
+    <date>2024-01-18</date>
+    <time>13:16</time>
+    <workstation>
+      <version>23.1.12.4638</version>
+    </workstation>
+    <institution_data>
+      <name />
+      <location />
+      <disclaimer />
+    </institution_data>
+  </session>
+  <patient id="00006AE9">
+    <patient_data>
+      <personal_id>24.01.18-12:07:11-STD-1.3.12.2.1107.5.2.43.67059</personal_id>
+      <name>Rr_ex_prisma</name>
+      <birthdate>1900-01-01</birthdate>
+      <birthdate_invariant>01/01/1900</birthdate_invariant>
+      <sex>O</sex>
+    </patient_data>
+    <request id="AA837F58">
+      <study id="AAEEF082">
+        <study_data>
+          <datetime>2024-01-18 12:07</datetime>
+          <utc_datetime>01/18/2024 11:07:29</utc_datetime>
+          <description>HEAD AND NECK^Acusticus screening</description>
+          <accession_id>24.01.18-12:0...</accession_id>
+          <exam_id>24.01.18-12:0...</exam_id>
+          <body_part>BRAIN</body_part>
+          <modality>MR</modality>
+          <instance_uid>1.3.12.2.1107.5.2.43.67059.30000024011715133221600000008</instance_uid>
+        </study_data>
+        <series id="00005416">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>gre</description>
+          </series_data>
+          <image id="EEEEB275">
+            <datetime>2024-01-18 12:59:07</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:59:07</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005416\EEEEB275</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00000193">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>gre</description>
+          </series_data>
+          <image id="EE73F836">
+            <datetime>2024-01-18 12:58:49</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:58:49</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00000193\EE73F836</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000C628">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>gre</description>
+          </series_data>
+          <image id="EEEDE2BA">
+            <datetime>2024-01-18 12:58:41</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:58:41</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000C628\EEEDE2BA</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00002196">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>gre</description>
+          </series_data>
+          <image id="EE407235">
+            <datetime>2024-01-18 12:58:31</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:58:31</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00002196\EE407235</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000020B">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>gre</description>
+          </series_data>
+          <image id="EE3E0E5F">
+            <datetime>2024-01-18 12:58:23</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:58:23</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000020B\EE3E0E5F</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00007EB9">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>gre</description>
+          </series_data>
+          <image id="EEE31B1D">
+            <datetime>2024-01-18 12:58:13</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:58:13</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00007EB9\EEE31B1D</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000302F">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>gre</description>
+          </series_data>
+          <image id="EE38B2F8">
+            <datetime>2024-01-18 12:58:04</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:58:04</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000302F\EE38B2F8</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000DD97">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>gre</description>
+          </series_data>
+          <image id="EEE8DBC2">
+            <datetime>2024-01-18 12:57:55</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:57:55</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000DD97\EEE8DBC2</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00009893">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>gre</description>
+          </series_data>
+          <image id="EE0C0F00">
+            <datetime>2024-01-18 12:57:47</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:57:47</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00009893\EE0C0F00</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000C435">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>gre</description>
+          </series_data>
+          <image id="EE2EDF12">
+            <datetime>2024-01-18 12:58:58</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:58:58</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000C435\EE2EDF12</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00005AB2">
+          <series_data>
+            <modality>MR</modality>
+            <number>15</number>
+            <description>Scout: 3 plan T2</description>
+          </series_data>
+          <image id="EE3B4C0C">
+            <datetime>2024-01-18 12:08:13</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:13</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EE3B4C0C</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EE6B30EF">
+            <datetime>2024-01-18 12:08:06</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:06</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EE6B30EF</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EE83E002">
+            <datetime>2024-01-18 12:08:14</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:14</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EE83E002</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EE337603">
+            <datetime>2024-01-18 12:08:07</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:07</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EE337603</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EE5CF96C">
+            <datetime>2024-01-18 12:08:15</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:15</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EE5CF96C</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EE8C2A02">
+            <datetime>2024-01-18 12:08:05</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:05</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EE8C2A02</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EE9392E4">
+            <datetime>2024-01-18 12:08:12</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:12</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EE9392E4</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EEBA81C8">
+            <datetime>2024-01-18 12:08:04</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:04</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EEBA81C8</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EEFEE5F2">
+            <datetime>2024-01-18 12:08:11</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:11</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EEFEE5F2</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EE4AB58D">
+            <datetime>2024-01-18 12:08:03</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:03</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EE4AB58D</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EEE0C573">
+            <datetime>2024-01-18 12:08:08</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:08</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EEE0C573</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EEE7D81E">
+            <datetime>2024-01-18 12:08:16</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:16</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EEE7D81E</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EEF03C45">
+            <datetime>2024-01-18 12:08:09</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:09</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EEF03C45</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EE6E061D">
+            <datetime>2024-01-18 12:08:17</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:17</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EE6E061D</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+          <image id="EEE79D42">
+            <datetime>2024-01-18 12:08:10</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:08:10</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00005AB2\EEE79D42</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00009EF6">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EEE7D690">
+            <datetime>2024-01-18 12:52:17</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:52:17</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00009EF6\EEE7D690</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00006158">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EE3B51A3">
+            <datetime>2024-01-18 12:56:40</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:56:40</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00006158\EE3B51A3</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000F594">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EE37DBCA">
+            <datetime>2024-01-18 12:55:34</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:55:34</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000F594\EE37DBCA</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="000037DB">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EECF1EA7">
+            <datetime>2024-01-18 12:54:28</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:54:28</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\000037DB\EECF1EA7</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00003590">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EE1224E3">
+            <datetime>2024-01-18 12:53:23</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:53:23</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00003590\EE1224E3</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00002EAD">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EEF2DB4B">
+            <datetime>2024-01-18 12:51:11</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:51:11</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00002EAD\EEF2DB4B</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00000CFD">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EE73194A">
+            <datetime>2024-01-18 12:50:06</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:50:06</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00000CFD\EE73194A</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000D5C2">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EEEECAD7">
+            <datetime>2024-01-18 12:49:00</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:49:00</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000D5C2\EEEECAD7</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000CB30">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EE72D362">
+            <datetime>2024-01-18 12:47:54</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:47:54</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000CB30\EE72D362</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000DDC2">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EE5AB463">
+            <datetime>2024-01-18 12:46:48</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:46:48</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000DDC2\EE5AB463</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000CA8D">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EE595E1C">
+            <datetime>2024-01-18 12:45:41</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:45:41</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000CA8D\EE595E1C</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00007274">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>te10</description>
+          </series_data>
+          <image id="EEC1F40E">
+            <datetime>2024-01-18 12:44:36</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:44:36</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00007274\EEC1F40E</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000665C">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EE1C2F84">
+            <datetime>2024-01-18 12:11:32</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:11:32</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000665C\EE1C2F84</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="000067C1">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EE1F3D57">
+            <datetime>2024-01-18 12:12:02</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:12:02</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\000067C1\EE1F3D57</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00002B48">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EED0AD3C">
+            <datetime>2024-01-18 12:12:10</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:12:10</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00002B48\EED0AD3C</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000217B">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EE9202B4">
+            <datetime>2024-01-18 12:12:20</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:12:20</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000217B\EE9202B4</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00008C6E">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EE59F8DB">
+            <datetime>2024-01-18 12:12:32</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:12:32</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00008C6E\EE59F8DB</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000ED65">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EE63DCEC">
+            <datetime>2024-01-18 12:12:47</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:12:47</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000ED65\EE63DCEC</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000190A">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EECBEE3A">
+            <datetime>2024-01-18 12:13:12</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:13:12</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000190A\EECBEE3A</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000766D">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EEE1E138">
+            <datetime>2024-01-18 12:13:39</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:13:39</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000766D\EEE1E138</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00003773">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EEBFE562">
+            <datetime>2024-01-18 12:19:15</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:19:15</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00003773\EEBFE562</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00008875">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EEAC3AAA">
+            <datetime>2024-01-18 12:21:58</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:21:58</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00008875\EEAC3AAA</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000A1BD">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EE8967B3">
+            <datetime>2024-01-18 12:25:13</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:25:13</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000A1BD\EE8967B3</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="00009644">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EE3BFEDD">
+            <datetime>2024-01-18 12:29:34</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:29:34</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\00009644\EE3BFEDD</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000F9A7">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EE1128EB">
+            <datetime>2024-01-18 12:15:26</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:15:26</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000F9A7\EE1128EB</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000874B">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EE8B8012">
+            <datetime>2024-01-18 12:36:03</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:36:03</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000874B\EE8B8012</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="000052D0">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EEDAA53B">
+            <datetime>2024-01-18 12:14:20</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:14:20</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\000052D0\EEDAA53B</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+        <series id="0000806F">
+          <series_data>
+            <modality>MR</modality>
+            <number>1</number>
+            <description>tr18</description>
+          </series_data>
+          <image id="EE440FAF">
+            <datetime>2024-01-18 12:17:05</datetime>
+            <utc_date>01/18/2024</utc_date>
+            <utc_time>11:17:05</utc_time>
+            <dicom_file>
+              <src>../DICOM\00006AE9\AA837F58\AAEEF082\0000806F\EE440FAF</src>
+              <index>0</index>
+            </dicom_file>
+          </image>
+        </series>
+      </study>
+    </request>
+  </patient>
+</content>
